@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-input-uncontrolled/static/css/main.ee1538c6.css",
+    "main.js": "/react-input-uncontrolled/static/js/main.22032fad.js",
+    "index.html": "/react-input-uncontrolled/index.html",
+    "main.ee1538c6.css.map": "/react-input-uncontrolled/static/css/main.ee1538c6.css.map",
+    "main.22032fad.js.map": "/react-input-uncontrolled/static/js/main.22032fad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee1538c6.css",
+    "static/js/main.22032fad.js"
+  ]
+}
